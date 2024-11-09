@@ -11,7 +11,7 @@ namespace SerpentsHand
         public override string Name => "Get Third partied lol";
         public override string Author => "Noobest1001 (Oliver)";
         public override Version RequiredExiledVersion => new Version(8, 3, 0);
-        public override Version Version => new Version(6, 3, 1);
+        public override Version Version => new Version(0, 0, 1);
 
         public bool IsSpawnable = false;
 

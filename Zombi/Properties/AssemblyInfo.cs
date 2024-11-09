@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SerpentsHand")]
+[assembly: AssemblyTitle("Zombi")]
 [assembly: AssemblyDescription("EXILED [SCP:SL] Plugin that adds a new CH to the game [SCP/SH]")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("yanox, Michal78900 and Marco15453")]
@@ -31,5 +31,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("6.3.1")]
-[assembly: AssemblyFileVersion("6.3.1")]
+[assembly: AssemblyVersion("0.1.1")]
+[assembly: AssemblyFileVersion("0.1.1")]
